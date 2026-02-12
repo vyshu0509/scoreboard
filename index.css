@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.h3-1 {
+    color: white;
+    font-size: 40px;
+    margin-left: 300px;
+    text-align: center;
+    margin-bottom: 4px; 
+}
+.h3-2{
+    color: white;
+    font-size: 40px;
+    margin-right: 300px;
+    text-align: center;
+    margin-bottom: 4px; 
+}
+p{
+    color: #F94F6D;
+    margin: 0 auto; 
+    object-fit: contain;
+    font-size: 100px;
+    height: 100px;
+    text-align: center;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    padding: 10px 0px;
+    
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    gap: 0px; 
+}
+
+.home{
+    align-items: center;
+    height: 120px;
+    width: 160px;
+    background-color: black;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    margin-bottom: 20px;
+    margin-left: 300px;
+}
+
+.guest{
+    align-items: center;
+    height: 120px;
+    width: 160px;
+    background-color: black;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    margin-bottom: 20px;
+    margin-right: 300px;
+}
+
+.b{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    border: 1px solid #9AABD8;
+    background: #1B244A;
+    color: #9AABD8;
+    border-radius: 5px;
+    height: 44px;
+    width: 45px;
+    margin-right: 3px;
+    padding: 0px 4px;
+}   
+
+.buttons-1{
+    margin-top: 15px;
+    margin-left: 305px;
+}
+
+.buttons-2{
+    margin-top: 15px;
+    margin-right: 305px;
+}
